@@ -1,0 +1,16 @@
+library(tidyverse)
+library(sf)
+
+mapa_venezuela <- st_read('VEN_adm/VEN_adm1.shp')
+mapa_venezuela$value <- runif(25, 1, 100)
+
+ggplot() +
+  geom_sf(data = mapa_venezuela, aes(fill = value), color = 'black') +
+  scale_fill_gradientn(colors = c('limegreen','darkgreen')) +
+  ylim(0, 12.5) +
+  guides(fill = 'none') +
+  theme_bw() +
+  theme(
+    panel.border = element_blank(),
+    axis.line = element_line(color = 'black')
+  )
