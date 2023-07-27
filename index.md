@@ -64,7 +64,7 @@ Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cua
 Contáctame
 ---
 
-<a href="{{site.linkedin}}" style="margin-right:1em;"><img src="social_icons/linkedin.svg" height="40px" alt="LinkedIn"></a>
-<a href="{{site.github}}" style="margin-right:1em;"><img src="social_icons/github.svg" height="40px" alt="GitHub"></a>
-<a href="{{site.kaggle}}" style="margin-right:1em;"><img src="social_icons/kaggle.svg" height="40px" alt="Kaggle"></a>
-<a href="{{site.instagram}}"><img src="social_icons/instagram.svg" height="40px" alt="Instagram"></a>
+<a href="{{site.linkedin}}" target="_blank" style="margin-right:1em;"><img src="social_icons/linkedin.svg" height="40px" alt="LinkedIn"></a>
+<a href="{{site.github}}" target="_blank" style="margin-right:1em;"><img src="social_icons/github.svg" height="40px" alt="GitHub"></a>
+<a href="{{site.kaggle}}" target="_blank" style="margin-right:1em;"><img src="social_icons/kaggle.svg" height="40px" alt="Kaggle"></a>
+<a href="{{site.instagram}}" target="_blank"><img src="social_icons/instagram.svg" height="40px" alt="Instagram"></a>
