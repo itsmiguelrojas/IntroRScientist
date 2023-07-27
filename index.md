@@ -58,3 +58,10 @@ Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cua
 2. *t* de Student
 3. ANOVA
 4. Chi-cuadrado de homogeneidad
+
+Contáctame
+---
+[LinkedIn]({{site.linkedin}})
+[GitHub]({{site.github}})
+[Kaggle]({{site.kaggle}})
+[Instagram]({{site.instagram}})
