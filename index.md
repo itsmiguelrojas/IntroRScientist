@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cual se tocaron aspectos generales de la programación en R. En este repositorio se incluyen los archivos utilizados durante el mismo y el script de R usado. Puede seguir la grabación de este taller haciendo click [aquí](https://drive.google.com/file/d/1naV4G_sJHsvmgPKXIYWiL65vZBInBzxp/view?usp=sharing).
 
 El código y otros recursos del taller los puede encontrar haciendo click [aquí](https://github.com/itsmiguelrojas/taller_r).
