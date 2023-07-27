@@ -1,12 +1,9 @@
 title: Iniciación en R para científicos
-author:
-  name: Miguel Rojas
+author: Miguel Rojas
 
 theme: minima
-description: Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cual se tocaron aspectos generales de la programación en R. En este repositorio se incluyen los archivos utilizados durante el mismo y el script de R usado.
 
-social_links:
-  - {platform: linkedin, user_url: https://www.linkedin.com/in/itsmiguelrojas/}
-  - {platform: github, user_url: https://github.com/itsmiguelrojas/}
-  - {platform: kaggle, user_url: https://www.kaggle.com/itsmiguelrojas/}
-  - {platform: instagram, user_url: https://www.instagram.com/itsmiguelrojas/}
+linkedin: https://www.linkedin.com/in/itsmiguelrojas/}
+github: https://github.com/itsmiguelrojas/}
+kaggle: https://www.kaggle.com/itsmiguelrojas/}
+instagram: https://www.instagram.com/itsmiguelrojas/}
