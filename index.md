@@ -15,19 +15,19 @@ Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cua
 6. Instalar paquetes (CRAN y GitHub)
 7. Usar paquetes
 8. Citar paquetes
-9. Crear, visualizar y guardar gráficos (ggplot2)
+9. Crear, visualizar y guardar gráficos ([ggplot2](https://ggplot2.tidyverse.org/))
 
 ### 2. Importar datos de Excel, CSV y texto plano
 1. Importar datos de Excel
 2. Importar datos de CSV
-3. Importar datos de texto plano (UC y Ensembl)
+3. Importar datos de texto plano ([UC](https://archive.ics.uci.edu/) y [Ensembl](https://www.ensembl.org/index.html))
 
 ### 3. Estadísticas básicas e inferencia a partir de datos existentes
 1. Función `summary` (resumen de todas las variables de la tabla)
 2. Función `sum` (suma de datos numéricos)
 3. Funciones `min` y `max` (máximo y mínimo)
 4. Función `mean` (promedio o media)
-5. Función `sd` (desviación estándar **muestral**) y `sd.population` (desviación estándar **poblacional**, paquete propio)
+5. Función `sd` (desviación estándar **muestral**) y `sd.population` (desviación estándar **poblacional**, [paquete propio](https://github.com/itsmiguelrojas/sdPop))
 6. Función `by` (desplegar los datos de `summary` por categorías)
 7. Inferir datos (ejemplo del tamaño de genes)
 
@@ -59,10 +59,12 @@ Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cua
 3. ANOVA
 4. Chi-cuadrado de homogeneidad
 
+<hr>
+
 Contáctame
 ---
 
-<a href="{{site.linkedin}}" style="margin-right:1em;"><img src="social_icons/linkedin.svg" height="50px"></a>
-<a href="{{site.github}}" style="margin-right:1em;"><img src="social_icons/github.svg" height="50px"></a>
-<a href="{{site.kaggle}}" style="margin-right:1em;"><img src="social_icons/kaggle.svg" height="50px"></a>
-<a href="{{site.instagram}}"><img src="social_icons/instagram.svg" height="50px"></a>
+<a href="{{site.linkedin}}" style="margin-right:1em;"><img src="social_icons/linkedin.svg" height="40px" alt="LinkedIn"></a>
+<a href="{{site.github}}" style="margin-right:1em;"><img src="social_icons/github.svg" height="40px" alt="GitHub"></a>
+<a href="{{site.kaggle}}" style="margin-right:1em;"><img src="social_icons/kaggle.svg" height="40px" alt="Kaggle"></a>
+<a href="{{site.instagram}}"><img src="social_icons/instagram.svg" height="40px" alt="Instagram"></a>
