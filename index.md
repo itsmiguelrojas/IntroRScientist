@@ -61,7 +61,8 @@ Taller dictado el 5 de mayo de 2022 por medio de la plataforma Discord en el cua
 
 Contáctame
 ---
-[LinkedIn]({{site.linkedin}})
-[GitHub]({{site.github}})
-[Kaggle]({{site.kaggle}})
-[Instagram]({{site.instagram}})
+
+<a href={{site.linkedin}} style="margin-right:1em;"><img src="social_icons/linkedin.svg" height="50px"></a>
+<a href={{site.github}} style="margin-right:1em;"><img src="social_icons/github.svg" height="50px"></a>
+<a href={{site.kaggle}} style="margin-right:1em;"><img src="social_icons/kaggle.svg" height="50px"></a>
+<a href={{site.instagram}}><img src="social_icons/instagram.svg" height="50px"></a>
